@@ -818,6 +818,13 @@ input[type="radio"] + label:before {
   width: 100%;
 }
 
+.video {
+  display: block;
+  margin: 2.5rem 0;
+  height: 22rem;
+  width: 100%;
+}
+
 .image.main img {
   width: 100%;
 }
